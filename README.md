@@ -1,4 +1,6 @@
 # ![](https://raw.githubusercontent.com/xaoxuu/NoticeBoard/master/resources/header.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgetmyboat%2FiOS-NoticeBoard.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgetmyboat%2FiOS-NoticeBoard?ref=badge_shield)
+
 
 [![](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/xaoxuu/NoticeBoard/master/LICENSE)  [![](https://img.shields.io/badge/platform-iOS%208%2B%20-orange.svg?style=flat)](https://www.apple.com/nl/ios/)  [![](https://img.shields.io/cocoapods/v/NoticeBoard.svg?style=flat)](https://cocoapods.org/pods/NoticeBoard)  [![](https://img.shields.io/cocoapods/dt/NoticeBoard.svg)](https://codeload.github.com/xaoxuu/NoticeBoard/zip/master)  [![](https://img.shields.io/cocoapods/at/NoticeBoard.svg)](https://cocoapods.org/pods/NoticeBoard) 
 
@@ -154,3 +156,6 @@ notice.windowLevel = 1000
 ### 在Swift和Objective-C中使用
 
 `NoticeBoard`使用`Swift4.1`语言编写，如需在`Objective-C`项目中使用，可以采用`Objective-C`和`Swift`混编的方式，详情请参照示例程序：`Example-OC`。
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgetmyboat%2FiOS-NoticeBoard.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgetmyboat%2FiOS-NoticeBoard?ref=badge_large)
